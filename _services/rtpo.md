@@ -1,10 +1,12 @@
 ---
-title: "Accounting"
+title: "Real-time port operations"
 date: 2018-11-18T12:33:46+10:00
 weight: 3
 ---
+**Track and trace vessel activities in real-time** for your self and your customers. Plan ahead and solve problems before they occur. Our real time operations service gives you the complete picture.
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+
+Email and document integrations enables users to quickly find relevant information about any fixture. Emails are automatically scanned and tagged.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
