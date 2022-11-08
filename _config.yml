@@ -1,13 +1,13 @@
-url: https://my-site.github.io
+url: https://theshipas.github.io
 baseurl: '/'
 permalink: pretty
 title: 'The Ship Knowledge and Support'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/TheShipLogo_Blue.jpg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
+  desktop: "images/logo/TheShipLogo_Blue.jpg"
   desktop_height: "32px"
   desktop_width: "120px"
 
