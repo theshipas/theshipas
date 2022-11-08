@@ -1,4 +1,5 @@
-baseurl: 'https://theshipas.github.io/'
+url: https://theshipas.github.io
+baseurl: '/'
 permalink: pretty
 title: 'The Ship Knowledge and Support'
 
