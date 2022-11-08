@@ -1,4 +1,5 @@
-baseurl: '/theshipas.github.io/'
+url: url: https://my-site.github.io
+baseurl: '/'
 permalink: pretty
 title: 'Jekyll Serif'
 
