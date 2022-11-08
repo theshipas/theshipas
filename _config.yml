@@ -1,7 +1,7 @@
-url: url: https://my-site.github.io
+url: https://my-site.github.io
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'The Ship Knowledge and Support'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
