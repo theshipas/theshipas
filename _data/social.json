@@ -1,12 +1,12 @@
 [
-  {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
-  },
-  {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
-  }
+	{
+		"name": "Github",
+		"link": "https://github.com/theshipas/theshipas.github.io",
+		"image": "images/social/github.svg"
+	},
+	{
+		"name": "LinkedIn",
+		"link": "https://www.linkedin.com/company/the-ship-as",
+		"image": "images/social/LinkedIn_icon.svg"
+	}
 ]

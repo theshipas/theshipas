@@ -1,9 +1,9 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Statement of facts"
+    url: "/sof/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Automatic Demurrage"
+    url: "/demurrage/"
     weight: 3
   - name: "About"
     url: "/about/"
