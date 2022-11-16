@@ -2,7 +2,7 @@
 title: The Ship Knowledge and support
 layout: home
 description: The Ship Knowledge and support contains content supporting your day to day operations using services from The Ship AS. Our services is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/stock/2images.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true

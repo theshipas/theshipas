@@ -1,8 +1,8 @@
 ---
-title: Services
+title: Services & Support
 layout: services
-description: Services
-intro_image: "images/illustrations/reading.svg"
+description: Services & Support
+intro_image: "images/stock/2images.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
