@@ -9,4 +9,5 @@ intro_image_hide_on_mobile: true
 
 # Services that grow with your business
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+If you want to know about how to implement the Ship Services and making it a roll-out success at the office and onboard your vessels? Read thru our getting started documentation.
+
